@@ -18,4 +18,4 @@ A comprehensive, console-based terminal application designed to streamline pharm
 ## 📦 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Jashan-DataScience/Pharmacy-Management-System.git](https://github.com/Jashan-DataScience/Pharmacy-Management-System.git)
+   git clone [https://github.com/Jashan-DataScience/Pharmacy-Management-System.git]
