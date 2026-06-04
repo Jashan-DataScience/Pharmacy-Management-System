@@ -1,21 +1,25 @@
-# Pharmacy Management System (C++)
+# 🏥 Pharmacy Management System
 
-A comprehensive, console-based terminal application designed to streamline pharmacy operations, monitor stock, manage product categories, process customer billing, and calculate financial statements.
-
-* **Sivanesan Jashan** - Lead Developer / Data Science Student (Horizon Campus)
+A full-stack web application designed to streamline pharmacy operations, manage medicine inventories, and track sales records efficiently using a secure database backend.
 
 ## 🚀 Features
-- **Inventory Management:** Core CRUD functionalities to add new medicine batches and update quantities dynamically.
-- **Category Control:** Segment items into structured health categories with descriptive labeling.
-- **Batch Expiry Sweeper:** Automatic tracking and batch-removal of expired stock based on chronological filters.
-- **Dynamic Point of Sale (POS):** Multi-item customer billing system supporting stock verification, custom membership discount tiers (10%), and cash/card ledger validations.
-- **Operational Analytics:** Automated module to estimate employee base payroll calculations alongside net transaction business profits.
+- **Full CRUD Functionality:** Seamlessly Create, Read, Update, and Delete records for medicines, suppliers, and users.
+- **Inventory Management:** Live tracking of stock levels, expiry dates, and reorder levels.
+- **Role-Based Authentication:** Secure admin dashboard and staff login interface to prevent unauthorized access.
+- **Dynamic Database Integration:** Structured relational database handling transactional queries efficiently.
 
-## 🛠️ Tech Stack & Concepts Used
-- **Language:** C++11 / C++14
-- **Concepts:** Procedural Programming, Custom Structs (`struct`), Structured Arrays, Control Flow, Reference Tracking, Input Stream Validation.
+## 🛠️ Technologies Used
+- **Frontend:** HTML5, CSS3, JavaScript (Responsive Dashboard)
+- **Backend:** PHP (Server-side logic)
+- **Database:** MySQL (Relational storage and management)
 
-## 📦 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Jashan-DataScience/Pharmacy-Management-System.git]
+## 🛠️ How to Run & Open Project
+
+### Option 1: Direct Web Browser Link
+Click the link below to view the repository files directly in your web browser:
+[Click here to view Pharmacy Management System Repository](https://github.com/Jashan-DataScience/Pharmacy-Management-System)
+
+### Option 2: Clone via Terminal (Git Clone)
+To download the repository to your local server (e.g., XAMPP htdocs), copy and paste this command into your terminal:
+```bash
+git clone [https://github.com/Jashan-DataScience/Pharmacy-Management-System.git](https://github.com/Jashan-DataScience/Pharmacy-Management-System.git)
